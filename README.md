@@ -14,7 +14,7 @@ Title: Ultra NX
 ```
 
 ```
-# Ghost eShop (Under maintenance)
+# Ghost eShop
 Protocol: https
 Host: nx.ghostland.at
 Title: Ghost eShop PUBLIC
