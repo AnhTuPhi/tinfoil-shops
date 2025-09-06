@@ -214,3 +214,9 @@ ___
 - The author does not take any responsibility for your actions using this service.
 
 - The author is NOT affiliated with the content that you can retrieve thanks to any Tinfoil shop.
+
+---
+
+<div align="center">
+  <strong>⭐ If you find this project useful, please consider giving it a star!</strong>
+</div>
